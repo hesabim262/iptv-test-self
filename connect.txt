@@ -1,0 +1,19 @@
+chmod +x vaydns-client-linux-amd64
+
+./vaydns-client-linux-amd64 --domain t.iampedi8.live -listen 0.0.0.0:7000 -pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e -udp 2.189.44.44:53 -record-type cname
+
+
+./vaydns-client-linux-amd64 --domain t.iampedi8.live -listen 0.0.0.0:7000 -pubkey db48fc23911b1b875a94419a21f1ea7b9425e3f5b58fc0f0afa7d78a901bc02e -udp 2.188.21.190:53 -record-type cname
+
+
+./vaydns-client-linux-amd64 --domain v.tirexnet.shop -listen 0.0.0.0:7000 -pubkey 85f442929460ecddf8c7ea8fda8203e35196a5ed99694c97f621d941a4933249 -udp 2.188.21.190:53 -record-type cname
+
+./vaydns-client-linux-amd64 --domain r.bamak.xyz -listen 0.0.0.0:7001 -pubkey ab1c90da107ffb1375c7fc5af3637792defa4e1c7e5beac34ad3cf8437d7d675 -udp 2.188.21.190:53 -record-type cname
+
+./vaydns-client-linux-amd64 --domain t1.m4l3k-m4l3k.net.pl -listen 0.0.0.0:7001 -pubkey ce95911f62aaa9081540684c98d45f083e2ff52d1cbab8f6f430336327efb866 -udp 2.188.21.190:53 -record-type txt
+
+./vaydns-client-linux-amd64 --domain n.g0rb3.lol -listen 0.0.0.0:7001 -pubkey cd734fc7cb795ad565a6615c6e626693a276429526bfa0e098776835045dcf36 -udp 2.188.21.190:53 -record-type cname
+
+./vaydns-client-linux-amd64 --domain v.webpack.sbs -listen 0.0.0.0:7000 -pubkey e253aec0c69dcc4582886402c1eadbde4ed8b38a50b3186e20aed4186c745322 -udp 2.188.21.190:53 -record-type ns
+
+./vaydns-client-linux-amd64 --domain t.eghbal.shop -listen 0.0.0.0:7000 -pubkey 7b3aa408526c8bb3239662fe1785b183987ac9729a891cd5cd62a41c9ef1682c -udp 2.189.44.44:53 -record-type ns
